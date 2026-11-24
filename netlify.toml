@@ -1,0 +1,4 @@
+# SpendWise is a static site: no build step is needed.
+# Netlify publishes the files in the repository root as they are.
+[build]
+  publish = "."
